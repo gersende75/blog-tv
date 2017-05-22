@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Histoire on Top Séries TV</title>
+    <link>https://example.org/categories/histoire/</link>
+    <description>Recent content in Histoire on Top Séries TV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
+    
+	<atom:link href="https://example.org/categories/histoire/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vikings</title>
+      <link>https://example.org/post/work11/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      
+      <guid>https://example.org/post/work11/</guid>
+      <description>Scandinavie, à la fin du 8ème siècle. Ragnar Lodbrok, un jeune guerrier viking, est avide d&amp;rsquo;aventures et de nouvelles conquêtes. Lassé des pillages sur les terres de l&amp;rsquo;Est, il se met en tête d&amp;rsquo;explorer l&amp;rsquo;Ouest par la mer.
+Bande annonce  Synopsis Les exploits d&amp;rsquo;un groupe de Vikings mené par Ragnar Lothbrok, l&amp;rsquo;un des vikings les plus populaires de tous les temps au destin semi-légendaire, sont narrés par la série.</description>
+    </item>
+    
+  </channel>
+</rss>

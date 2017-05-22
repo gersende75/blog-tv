@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drame on Top Séries TV</title>
+    <link>https://example.org/tags/drame/</link>
+    <description>Recent content in Drame on Top Séries TV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 19:57:40 +0530</lastBuildDate>
+    
+	<atom:link href="https://example.org/tags/drame/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Malcolm</title>
+      <link>https://example.org/post/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>https://example.org/post/work6/</guid>
+      <description>&lt;p&gt;Un petit génie malgré lui, Malcolm vit
+ dans une famille hors du commun.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

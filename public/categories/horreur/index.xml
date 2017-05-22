@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Horreur on Top Séries TV</title>
+    <link>https://example.org/categories/horreur/</link>
+    <description>Recent content in Horreur on Top Séries TV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 19:57:40 +0530</lastBuildDate>
+    
+	<atom:link href="https://example.org/categories/horreur/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>American Horror Story</title>
+      <link>https://example.org/post/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>https://example.org/post/work8/</guid>
+      <description>&lt;p&gt;A chaque saison, son histoire. American Horror Story nous embarque dans des récits à la fois poignants et cauchemardesques, mêlant la peur, le gore et le politiquement correct. De quoi vous confronter à vos plus grandes frayeurs !
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

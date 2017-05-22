@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fantasy on Top Séries TV</title>
+    <link>https://example.org/categories/fantasy/</link>
+    <description>Recent content in Fantasy on Top Séries TV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="https://example.org/categories/fantasy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Game of Thrones</title>
+      <link>https://example.org/post/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://example.org/post/work2/</guid>
+      <description>&lt;p&gt;Il y a très longtemps, à une époque oubliée, une force a détruit l&amp;rsquo;équilibre des saisons. Dans un pays où l&amp;rsquo;été
+peut durer plusieurs années et l&amp;rsquo;hiver toute une vie,des forces sinistres et surnaturelles se pressent aux
+portes du Royaume des Sept Couronnes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
