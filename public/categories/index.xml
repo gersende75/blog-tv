@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Top Séries TV</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in Categories on Top Séries TV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
+    
+	<atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comedie</title>
+      <link>https://example.org/categories/comedie/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>https://example.org/categories/comedie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crime</title>
+      <link>https://example.org/categories/crime/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://example.org/categories/crime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drame</title>
+      <link>https://example.org/categories/drame/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://example.org/categories/drame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fantasy</title>
+      <link>https://example.org/categories/fantasy/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://example.org/categories/fantasy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Histoire</title>
+      <link>https://example.org/categories/histoire/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      
+      <guid>https://example.org/categories/histoire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horreur</title>
+      <link>https://example.org/categories/horreur/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>https://example.org/categories/horreur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scifi</title>
+      <link>https://example.org/categories/scifi/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>https://example.org/categories/scifi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

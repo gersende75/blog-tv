@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drame on Top Séries TV</title>
+    <link>https://example.org/categories/drame/</link>
+    <description>Recent content in Drame on Top Séries TV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 19:44:32 +0530</lastBuildDate>
+    
+	<atom:link href="https://example.org/categories/drame/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Breaking Bad</title>
+      <link>https://example.org/post/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://example.org/post/work3/</guid>
+      <description>&lt;p&gt;Un professeur de chimie au lycée, atteint d&amp;rsquo;un cancer
+inopérable des poumons, tourne fabricant et dealer de
+méthamphétamines afin de subvenir au besoin de sa famille.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sons of Anarchy</title>
+      <link>https://example.org/post/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://example.org/post/work5/</guid>
+      <description>&lt;p&gt;Afin de protéger leur ville des dealers et des entrepreneurs
+ locaux, les membres d&amp;rsquo;un club de motos sont prêts à tout
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Big Little Lies</title>
+      <link>https://example.org/post/work12/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>https://example.org/post/work12/</guid>
+      <description>&lt;p&gt;Quand Madeline, Jane et Celeste se lient d&amp;rsquo;amitié par l&amp;rsquo;intermédiaire de leurs enfants, elles ne se doutent pas qu&amp;rsquo;elles vont se retrouver, des mois plus tard, au centre d&amp;rsquo;un tragique accident, survenu à la fête de l&amp;rsquo;école.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

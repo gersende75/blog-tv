@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crime on Top Séries TV</title>
+    <link>https://example.org/categories/crime/</link>
+    <description>Recent content in Crime on Top Séries TV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 19:44:32 +0530</lastBuildDate>
+    
+	<atom:link href="https://example.org/categories/crime/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>American Crime Story</title>
+      <link>https://example.org/post/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://example.org/post/work4/</guid>
+      <description>&lt;p&gt;Le procès controversé et ultra-médiatisé de O.J Simpson, en 1995.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>True Detective</title>
+      <link>https://example.org/post/work9/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      
+      <guid>https://example.org/post/work9/</guid>
+      <description>&lt;p&gt;La traque d&amp;rsquo;un tueur en série amorcée en 1995, à travers les enquêtes croisées et complémentaires de deux détectives, Rust Cohle et Martin Hart.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
